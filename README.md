@@ -117,6 +117,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">
-  Built with ❤️ for a safer and more ethical workplace.
-</p>
